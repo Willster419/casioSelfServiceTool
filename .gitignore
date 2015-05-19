@@ -24,3 +24,5 @@ tools/*
 
 # Boot Animation files
 *bootanimation*
+busybox
+su
